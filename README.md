@@ -1,2 +1,2 @@
 # AIFinance
-Machine Learning or Deep Learning in Financial sector
+Machine Learning or Deep Learning based projects in Financial sector
